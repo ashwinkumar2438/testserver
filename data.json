@@ -1,0 +1,22 @@
+{
+    "contacts": [
+      {
+        "name": "Ashwin",
+        "email": "ashwinkumar@gmail.com",
+        "phone": "7892394823",
+        "id": 2
+      },
+      {
+        "name": "Saurabh",
+        "email": "jimmy@gmail.com",
+        "phone": "789324324",
+        "id": 3
+      },
+      {
+        "name": "Gunjan",
+        "email": "gunjan@gmail.com",
+        "phone": "876534322",
+        "id": 5
+      }
+    ]
+  }
