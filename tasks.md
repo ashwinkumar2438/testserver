@@ -1,2 +1,2 @@
-- check rental ornaments
+~~ - check rental ornaments ~~
 - buy casual dress
