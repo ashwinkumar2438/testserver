@@ -1,2 +1,0 @@
-- check rental ornaments DONE
-- buy casual dress
